@@ -20,7 +20,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1iyVN-2KYYZ5yNzulBWCSs0
    `npm run dev`
 
 
-Below is a **clean, ready-to-upload `README.md` user guide**, written for **end users and developers**, explaining **step by step** how to run the project **locally with Docker and a free local LLM model**.
+# Below is a ** user guide**, written for **end users and developers**, explaining **step by step** how to run the project **locally with Docker and a free local LLM model**.
 
 
 ---
